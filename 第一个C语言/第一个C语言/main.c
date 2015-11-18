@@ -38,7 +38,5 @@ int main(int argc, const char * argv[]) {
     
     //return 返回函数的，后面跟着一个数据必须要和函数返回值类型保持一致，一般的情况函数都需要一个return，但是如果函数的返回值类型为空（void），return可以省略不写
     //1 在main函数中是必须要有的，代表的是一个正常返回，如果是0代表的是一个非正常返回
-    
-    
     return 1;
 }
